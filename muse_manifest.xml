@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa-support.tk" resolutions="1x" timestamp="1557575504006">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4114018841" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u134-5.png" crc="3922879582" ref="index"/>
+    <file name="65.jpg" crc="275693121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitledkl.jpg" crc="4089929345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s.jpg" crc="3929311765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled.jpg" crc="3949801271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u342-4.png" crc="4138164290" ref="index"/>
+    <file name="u396-5.png" crc="3896296117" ref="index"/>
+    <file name="u405-6.png" crc="79193481" ref="index"/>
+    <file name="u369-5.png" crc="438925461" ref="index"/>
+    <file name="u375-4.png" crc="256003988" ref="index"/>
+    <file name="u387-5.png" crc="449836772" ref="index"/>
+  </folder>
+  <file name="index.html" crc="83805824" seo="true" mt="1557575393474" redirect="true"/>
+</manifest>

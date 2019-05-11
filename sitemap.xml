@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://aa-support.tk/index.html</loc>
+    <lastmod>2019-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aa-support.tk/images/65.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa-support.tk/images/untitledkl.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa-support.tk/images/s.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa-support.tk/images/untitled.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
