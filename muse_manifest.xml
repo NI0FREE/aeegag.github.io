@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa-support.tk" resolutions="1x" timestamp="1557576947943">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa-support.tk" resolutions="1x" timestamp="1557577638723">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="290434076" ref="index"/>
+    <file name="index.css" crc="4098274786" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,7 +27,6 @@
     <file name="untitled.jpg" crc="3949801271" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u375-5.png" crc="3982381789" ref="index"/>
   </folder>
-  <file name="index.html" crc="125425518" seo="true" mt="1557576935287" redirect="true"/>
+  <file name="index.html" crc="503688844" seo="true" mt="1557577613420" redirect="true"/>
 </manifest>
